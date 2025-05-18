@@ -1,0 +1,21 @@
+﻿customer_id ,age ,gender ,annual_income ,last_purchase_days ,loyalty_level 
+C001 ,24,male ,37000,45,Medium 
+C002 ,,Female ,thirty-five k ,12,High 
+C003 ,33,MALE ,45000,90,Low 
+C004 ,27,F ,51000,5,High 
+C005 ,22,male ,27000,NaN ,Medium 
+C006 ,41,Female   ,72000,300,Low 
+C007 ,29,,42000,21,Medium 
+C008 ,38,MALE ,NaN ,40,Medium 
+C009 ,34,female ,65000,0,High 
+C010 ,- ,Male ,47000,14,Medium 
+C011 ,36,female ,80000,270,Low 
+C012 ,31,Male ,59000,7,High 
+C013 ,26,Male ,49000,50,Medium 
+C014 ,28,Female ,fourty five k ,20,Medium 
+C015 ,23,F ,31000,5,High 
+C016 ,30,male ,46000,90,Low 
+C017 ,35,male ,61000,10,High 
+C018 ,40,Female ,70000,300,Low 
+C019 ,27,Male ,53000,13,High 
+C020 ,33,Female ,62000,30,Medium 
